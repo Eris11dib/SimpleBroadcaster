@@ -1,0 +1,6 @@
+name: SimpleBroadcast
+main: SimpleBroadcast\Main
+api: [3.0.0]
+author: Eris11dib
+description: SimpleBroadcast 
+version: 0.0.1
