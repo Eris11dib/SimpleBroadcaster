@@ -3,7 +3,7 @@ A simple and configurable Broadcast plugin
 
 
 # Configuration
-
+```yaml
 ---
 Messages:
 - Test 20 ticks
@@ -12,6 +12,7 @@ Messages:
 - quarto broadcast
 seconds_per_broadcast: 900
 ---
+```
 
 This is the Messages.yml file, in this file you will add or modify your favorite message
 
