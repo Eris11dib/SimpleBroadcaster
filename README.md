@@ -1,6 +1,10 @@
 # SimpleBroadcaster
+
 A simple and configurable Broadcast plugin
 
+Works with:
+- 1.4
+- 1.5
 
 # Configuration
 ```yaml
